@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1748278698064",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 10.99,
+    "publishedDate": "1925-04-10"
+  },
+  {
+    "id": "1748278728582",
+    "title": "The Alchemist (Updated)",
+    "author": "Paulo Coelho",
+    "price": 12.99,
+    "publishedDate": "1993-06-20"
+  }
+]
